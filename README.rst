@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmihailov-vf%2FSilex.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmihailov-vf%2FSilex?ref=badge_shield)
+
 Silex, a simple Web Framework
 =============================
 
@@ -62,3 +64,7 @@ Silex is licensed under the MIT license.
 .. _PHPUnit:            https://phpunit.de
 .. _silex.zip:          http://silex.sensiolabs.org/download
 .. _documentation:      http://silex.sensiolabs.org/documentation
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmihailov-vf%2FSilex.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmihailov-vf%2FSilex?ref=badge_large)
